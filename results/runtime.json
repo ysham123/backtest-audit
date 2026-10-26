@@ -1,0 +1,11 @@
+{
+  "workers": 4,
+  "seconds": {
+    "E1 selection inflation": 110.5,
+    "E2 calibration": 132.1,
+    "E3 power": 156.1,
+    "E4 PBO sanity": 160.4,
+    "E5 real data": 44.2
+  },
+  "total_seconds": 603.3
+}
